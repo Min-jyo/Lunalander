@@ -1,5 +1,6 @@
 # 실행명령어
 $ python dqn_lander_py.py
+
 $ python dueling_dqn_lander_v1.py
 
 # 실행시간
